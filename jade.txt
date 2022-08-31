@@ -1,0 +1,34 @@
+.container 
+.row
+  .col.s12
+    h1 charecter sheet
+    ul.tabs
+      li.tab.col.s12
+        a(href="#tab1") abilities
+      li.tab.col.s12
+        a(href="#tab2") actions
+      li.tab.col.s12
+        a(href="#tab3") feats
+      li.tab.col.s12
+        a(href="#tab4") equipment  
+      li.tab.col.s12
+        a(href="#tab5") background
+    //end tabs
+    .mt120
+    //tabs content
+    #tab1.col.s12 test
+    //end tab1
+   
+    #tab2.col.s12 test2
+    //end tabs2
+    
+    #tab3.col.s12 test3
+    //end tabs2
+    
+    #tab4.col.s12 test4
+    //end tabs2
+    
+    #tab5.col.s12.ybg test5
+    //end tabs2
+    
+//end container

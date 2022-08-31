@@ -1,0 +1,14 @@
+.tabs
+{
+	overflow-x: initial !important;
+    overflow-y: visible !important;
+	display: block !important;
+}
+.ybg 
+{
+	text-align: right;
+}
+.tabs-content
+{
+	height:2000px !important;
+}
